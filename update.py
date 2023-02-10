@@ -25,7 +25,7 @@ def spotifynow():
 	soup = BeautifulSoup(r.content, 'html.parser')
 	artist = soup.find('div', class_="artist")
 	song=soup.find('div', class_="song scrolling")
-	prebio="A star died to make you and you don't find any romance in that, awful!"
+	prebio="t.me/thewickedkarma"
 	try:
 		artist= artist.get_text(strip=True, separator=' ')
 	except AttributeError:
