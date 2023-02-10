@@ -64,7 +64,7 @@ python3 update.py
 
 * Follow the instructions in your terminal/python editor.
 
-* After logging in successfully, you will notice a file named ```user.session``` in the cloned folder.
+* After logging in successfully, you will notice a file named ```tguser.session``` in the cloned folder.
 
 * Upload that file to your forked github repo
 
