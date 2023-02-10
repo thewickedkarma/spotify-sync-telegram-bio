@@ -1,0 +1,4 @@
+asyncio
+telethon
+bs4
+requests
